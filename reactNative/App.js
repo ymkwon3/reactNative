@@ -1,10 +1,10 @@
 import React from 'react';
-import { SafeAreaView, StyleSheet, Text } from 'react-native';
+import {SafeAreaView, StyleSheet, Text} from 'react-native';
 
 const App = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Text>리프레시가 빠르구만 허허 첫시작만 느리네욘</Text>
+      <Text>리프레시가 빠르구만 허허 첫시작만 ㅇㅇ??</Text>
     </SafeAreaView>
   );
 };
